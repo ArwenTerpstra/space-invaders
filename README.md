@@ -11,5 +11,5 @@ Space Invaders is a retro-style 2D arcade shooter where the player must defend E
 ## Project Structure:
 - **/assets**: Game assets (images, sounds)
 - **/src**: Game scripts (player, enemies, etc..)
-- **REAEDME.md**: Project overview
+- **README.md**: Project overview
 - **LICENSE**: MIT License

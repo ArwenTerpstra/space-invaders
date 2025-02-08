@@ -2,7 +2,7 @@ function love.load()
     player = { x = 400, y = 550, width = 32, height = 32 }
 end
 
-function love.update()
+function love.update(dt)
 end
 
 function love.draw()
